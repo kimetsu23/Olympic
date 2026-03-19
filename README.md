@@ -1,2 +1,2 @@
 # Olympic
-Game olympic BIG DATA
+Olympic Games BIG DATA
